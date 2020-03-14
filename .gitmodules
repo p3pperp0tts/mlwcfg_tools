@@ -1,3 +1,6 @@
 [submodule "Gozi/ISFB_Tools"]
 	path = Gozi/ISFB_Tools
 	url = https://github.com/0ver-fl0w/ISFB_Tools.git
+[submodule "Nanocore/NanoCore-RAT"]
+	path = Nanocore/NanoCore-RAT
+	url = https://github.com/Fr33domD0wntime/NanoCore-RAT.git
